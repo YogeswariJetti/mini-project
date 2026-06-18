@@ -1,5 +1,6 @@
-# Student Management System       ## Live Demo :---https://mini-project-two-sepia.vercel.app
+# Student Management System       
 A responsive Student Management System developed using React and Vite. This project provides a simple interface for student registration, login, and dashboard management while demonstrating modern front-end development practices.
+## Live Demo :---https://mini-project-two-sepia.vercel.app
 
 ## Features
 
